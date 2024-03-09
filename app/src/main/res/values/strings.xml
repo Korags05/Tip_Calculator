@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="tip_calculator_by_kunal_saha_string">TipCalculatorby Kunal Saha</string>
+	<string name="total_bill_string">Total bill</string>
+	<string name="xx_xx_string">xx.xx</string>
+	<string name="total_tip_string">Total tip</string>
+	<string name="xx_xx_ek1_string">xx.xx</string>
+	<string name="bill_string">Bill</string>
+	<string name="tip_string">tip</string>
+	<string name="_0__string">0%</string>
+	<string name="_1_string">1</string>
+	<string name="split__string">Split?</string>
+	<string name="___string">+</string>
+	<string name="___ek1_string">-</string>
+	<string name="___ek2_string">+</string>
+	<string name="___ek3_string">-</string>
+	<string name="calculate_string">Calculate</string>
+</resources>
