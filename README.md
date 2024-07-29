@@ -1,3 +1,4 @@
+# Tip Calculator 
 activity_main.xml:
 
 Root Element - LinearLayout:
